@@ -36,3 +36,5 @@ Testnet builder. Tokens, a sniper, wallets, bounties — built in the open, for 
 Testnet only. No real money, no KYC, no Discord / Facebook / Instagram.
 
 Built with [Muse](https://muse.ai) — deco's AI agent.
+
+Pools, name service and volume sniper modeled on our friend [0xzunid](https://github.com/0xzunid)'s approach — credit where it's due.
