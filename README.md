@@ -34,3 +34,5 @@ Testnet builder. Tokens, a sniper, wallets, bounties — built in the open, for 
 - 0xspotonchain.ai
 
 Testnet only. No real money, no KYC, no Discord / Facebook / Instagram.
+
+Built with [Muse](https://muse.ai) — deco's AI agent.
